@@ -8,7 +8,8 @@ mod 'puppetlabs-stdlib',
   :git => 'https://github.com/puppetlabs/puppetlabs-stdlib',
   :tag => '4.13.1'
 
-#mod 'puppetlabs-registry', '1.1.3',
-#  :git => 'https://github.com/puppetlabs/puppetlabs-registry'
+mod 'puppetlabs-registry', 
+  :git => 'https://github.com/puppetlabs/puppetlabs-registry',
+  :tag => '1.1.3'
 
 
