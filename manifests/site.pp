@@ -25,7 +25,7 @@ node 'instructorwin.puppetlabs.vm' {
 }
 
 node /.+\.puppetlabs\.vm/ {
-  notify {'I will get matched here!':}
+  notify {'No, I will get matched here!':}
 }
 
 node default {
