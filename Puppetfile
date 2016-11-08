@@ -4,9 +4,8 @@ mod 'acme/ohmyzsh', '0.1.2'
 # Installs the puppetlabs/vcsrepo module from its GitHub repository
 mod 'vcsrepo',
   :git => 'https://github.com/puppetlabs/puppetlabs-vcsrepo'
-mod 'stahnma/epel',
-  :git => 'https://github.com/stahnma/puppet-module-epel'
-mod 'puppetlabs/registry',
+mod 'puppetlabs-registry', '1.1.3'
   :git => 'https://github.com/puppetlabs/puppetlabs-registry'
-mod 'arioch/redis',
-  :git => 'https://github.com/arioch/puppet-redis'
+mod 'puppetlabs/stdlib',
+  :git => 'https://github.com/puppetlabs/puppetlabs-stdlib'
+  :tag => '4.13.1'
