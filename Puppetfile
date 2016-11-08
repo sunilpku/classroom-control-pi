@@ -7,5 +7,5 @@ mod 'vcsrepo',
 mod 'puppetlabs-registry', '1.1.3',
   :git => 'https://github.com/puppetlabs/puppetlabs-registry'
 
-mod 'puppetlabs/stdlib', '4.13.1'
+mod 'puppetlabs/stdlib', '4.13.1',
   :git => 'https://github.com/puppetlabs/puppetlabs-stdlib'
