@@ -8,3 +8,5 @@ mod 'vcsrepo',
 mod 'puppetlabs/registry',
   :git => 'https://github.com/puppetlabs/puppetlabs-registry',
   :tag => '1.1.3'
+
+mod 'puppetlabs/motd', '1.4.0'
