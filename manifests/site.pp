@@ -31,5 +31,5 @@ node default {
   # example code for the classroom
   include examples::puppetize
   
-  notify { "Hello, world! -- 2nd change": }
+  notify { "Hello, world! -- 3rd change": }
 }
