@@ -5,7 +5,7 @@ mod 'acme/ohmyzsh', '0.1.2'
 mod 'vcsrepo',
   :git => 'https://github.com/puppetlabs/puppetlabs-vcsrepo'
 mod 'puppetlabs-stdlib', 
-  :git => 'https://github.com/puppetlabs/puppetlabs-stdlib'
+  :git => 'https://github.com/puppetlabs/puppetlabs-stdlib',
   :tag => '4.13.1'
 
 #mod 'puppetlabs-registry', '1.1.3',
