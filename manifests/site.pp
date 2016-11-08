@@ -31,5 +31,5 @@ node default {
   # example code for the classroom
   include examples::puppetize
   
-  notify { "This is the default message from the production environment- test": }
+  notify { "This is the default message from the production environment- Second test": }
 }
