@@ -26,6 +26,8 @@ node default {
   # Example:
   #   class { 'my_class': }
   
+  # This is my new comment
+  
   # example code for the classroom
   include examples::puppetize
   
