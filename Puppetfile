@@ -6,6 +6,7 @@ mod 'vcsrepo',
   :git => 'https://github.com/puppetlabs/puppetlabs-vcsrepo'
 mod 'puppetlabs-stdlib', 
   :git => 'https://github.com/puppetlabs/puppetlabs-stdlib'
+  :tag => '4.13.1'
 
 #mod 'puppetlabs-registry', '1.1.3',
 #  :git => 'https://github.com/puppetlabs/puppetlabs-registry'
