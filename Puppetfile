@@ -10,3 +10,5 @@ mod 'puppetlabs/registry',
   :ref => 'f444177fed1213794c8c4acdc3725ff1c2ae2538'
 
 mod 'stahnma/epel', '1.2.2'
+
+mod 'arioch-redis', '1.2.3'
