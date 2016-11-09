@@ -8,3 +8,5 @@ mod 'vcsrepo',
 mod 'puppetlabs/registry',
   :git => 'https://github.com/puppetlabs/puppetlabs-registry',
   :ref => 'f444177fed1213794c8c4acdc3725ff1c2ae2538'
+
+mod 'stahnma/epel', '1.2.2'
